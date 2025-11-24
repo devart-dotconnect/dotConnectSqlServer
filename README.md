@@ -36,7 +36,7 @@ Moreover, this connector regularly undergoes security and performance tests to m
 
 ## Support Center
 You can find answers to your questions and share feedback or suggestions about the product.
-* [Documentation](https://docs.devart.com/dotconnect/sqlserver/GettingStarted.html)
+* [Documentation](https://docs.devart.com/dotconnect/sqlserver/Overview.html)
 * [Submit a Request](https://www.devart.com/company/contactform.html?category=1&product=dotconnect/sqlserver)
 * [Suggest a Feature](https://devart.uservoice.com/)
 * [Join Our Forum](https://support.devart.com/portal/en/community)
