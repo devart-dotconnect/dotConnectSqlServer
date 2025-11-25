@@ -1,4 +1,4 @@
-![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.SqlServer?color=informational&label=latest)![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.SqlServer?color=informational&label=installs&logo=nuget)
+[![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.SqlServer?color=informational&label=latest)](https://www.nuget.org/packages/Devart.Data.SqlServer) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.SqlServer?color=informational&label=Devart.Data.SqlServer&logo=nuget)](https://www.nuget.org/packages/Devart.Data.SqlServer)
 
 ## .NET Connector for SQL Server
 
